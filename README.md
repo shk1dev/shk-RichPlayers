@@ -14,9 +14,9 @@
 # Setup
 1. Download the file
 2. Unzipped the file
-3. Drag and drop [shk-RichPlayer] to your server folder
+3. Drag and drop [shk-RichPlayers] to your server folder
 4. Go to your server.cfg and add in
-`ensure shk-RichPlayer`
+`ensure shk-RichPlayers`
 
 
 # Support
